@@ -4,6 +4,7 @@ theme = "hugo-theme-cleanwhite-rsy"
 languageCode = "en-us"
 paginate = 5000 #frontpage pagination
 
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
