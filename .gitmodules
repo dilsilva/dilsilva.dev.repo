@@ -1,0 +1,6 @@
+[submodule "hugo-theme-cleanwhite-rsy"]
+	path = hugo-theme-cleanwhite-rsy
+	url = https://github.com/youngkin/hugo-theme-cleanwhite-rsy
+[submodule "themes/hugo-theme-cleanwhite-rsy"]
+	path = themes/hugo-theme-cleanwhite-rsy
+	url = https://github.com/youngkin/hugo-theme-cleanwhite-rsy
